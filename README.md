@@ -2,7 +2,7 @@
 Ahoy ! This is the list of all resources and topics one should know to learn javascript to a decent level. If you like this repo, kindly give it a star and share it with your fellow mates!
 
 
-<img src="https://giphy.com/gifs/memecandy-LmNwrBhejkK9EFP504" width="300">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300">
 
 Keep coding!
 

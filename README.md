@@ -1,8 +1,11 @@
 # Javascript_ROADMAP
-Hi there ! This is a roadmap for beginners to learn skills in javascript with attached resources link. If you like this repo, Kindly give it a star!
-
-
 Ahoy ! This is the list of all resources and topics one should know to learn javascript to a decent level. If you like this repo, kindly give it a star and share it with your fellow mates!
+
+
+<img src="https://giphy.com/gifs/memecandy-LmNwrBhejkK9EFP504" width="300">
+
+Keep coding!
+
 
 ## JAVASCRIPT FUNDAMENTALS
 RESOURCE FOR LEARNING THIS TOPIC -> https://www.youtube.com/watch?v=PkZNo7MFNFg
@@ -21,6 +24,7 @@ RESOURCE FOR LEARNING THIS TOPIC -> https://www.youtube.com/watch?v=PkZNo7MFNFg
 
 ## HOW JAVASCRIPT WORKS ACTUALLY
 RESOURCE FOR LEARNING THIS TOPIC -> https://www.youtube.com/watch?v=ZvbzSrg0afE
+
 RESOURCE FOR LEARNING THIS TOPIC -> https://www.youtube.com/watch?v=hGSHfObcVf4
 1. Javascript engine 
 2. Javascript runtime
@@ -32,6 +36,7 @@ RESOURCE FOR LEARNING THIS TOPIC -> https://www.youtube.com/watch?v=hGSHfObcVf4
 ## DATA STRUCTURES
 RESOURCEs FOR LEARNING THIS TOPIC -> 
 https://www.youtube.com/watch?v=t2CEgPsws3U
+
 https://www.youtube.com/watch?v=41GSinwoMYA
 
 1. Arrays in depth 
